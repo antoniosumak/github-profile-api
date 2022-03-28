@@ -22,4 +22,11 @@ npm run dev
 
 ### Mobile
 
- <img src="./src/assets/mobile-view.png" />
+ <img src="./src/assets/mobile-view.png" height="600"/>
+
+### Tablet
+
+ <img src="./src/assets/tablet-view.png" height="600"/>
+
+ ### Desktop 
+ <img src="./src/assets/desktop-view.png" height="600"/>
